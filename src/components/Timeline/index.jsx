@@ -8,7 +8,7 @@ const Timeline = () => {
   return (
     <div className="flex flex-col items-center gap-4 lg:mb-[245px]" id="timeline">
       <p className="font1 text-white text-3xl font-bold">Timeline</p>
-      <p className="font2 text-white text-sm mb-5">
+      <p className="font2 text-white text-sm mb-5 text-center">
         Here is the breakdown of the time we anticipate using for the upcoming
         event.
       </p>
