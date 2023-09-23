@@ -60,7 +60,7 @@ const Contact = () => {
   };
 
   return (
-    <div className="relative bg-[#1e1e1e]">
+    <div className="relative bg-[#121212]">
       <div className="rounded-[50%] bg-[#9839ff] blur-4 w-[100px] h-[100px] lg:w-[500px] border-0 left-[200px] lg:left-[200px] top-[100px] lg:h-[500px] absolute"></div>
       <div className="rounded-[50%] bg-[#9839ff] blur-4 w-[100px] h-[100px] lg:w-[500px] border-0 lg:left-[1000px] lg:top-[500px] lg:h-[500px] absolute"></div>
       <div className="z-10 backdrop-blur-3xl bg-[#1e1e1ed3]">
