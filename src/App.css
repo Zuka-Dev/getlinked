@@ -1,0 +1,17 @@
+.border1 {
+  border: 10px solid transparent; /* Set the initial border width and color to transparent */
+  border-radius: 50% !important;
+  border-image-slice: 2;
+  border-image-width: 3px;
+  border-image-source: linear-gradient(to bottom, #743ad5, #d53a9d);
+}
+
+.tinter {
+  filter: sepia(100%) hue-rotate(220deg) saturate(90%);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}

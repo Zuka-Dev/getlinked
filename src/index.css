@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&family=Unica+One&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.font1 {
+  font-family: "Clash Display", sans-serif;
+}
+.font2 {
+  font-family: "Montserrat", sans-serif;
+}
+.font3 {
+  font-family: "Unica One", cursive;
+}
+
+#root {
+  height: fit;
+  /* background-color: black; */
+  border: 1px solid black;
+  z-index: -10;
+  margin: 0;
+}
